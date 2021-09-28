@@ -21,4 +21,4 @@
 
 ## Курсовая работа
 
-[]()
+[(черновой вариант)](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/Мобильное%20приложение%20для%20библиотеки.pdf)
