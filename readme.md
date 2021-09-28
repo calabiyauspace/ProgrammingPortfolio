@@ -1,7 +1,7 @@
 # Anna Sokolova's Portfolio for the Programming course
 
 ## Лабораторные работы
-1 []()
+1 [ЛР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/Lr5.md)
 
 2 []()
 
