@@ -9,7 +9,7 @@
 
 3 [ИСР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/isr5-1.md)
 
-4 [ИСР 2]()
+4 [ИСР6-2](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/isr6-2.md)
 
 5 [ИСР 3]()
 
