@@ -3,7 +3,7 @@
 ## Лабораторные работы
 1 [ЛР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/Lr5.md)
 
-2 []()
+2 [5-2](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/LR5-2.py)
 
 ## Инвариативные самостоятельные работы
 
