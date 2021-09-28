@@ -7,7 +7,7 @@
 
 ## Инвариативные самостоятельные работы
 
-3 [ИСР5-1]()
+3 [ИСР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/isr5-1.md)
 
 4 [ИСР 2]()
 
