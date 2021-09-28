@@ -17,7 +17,7 @@
 
 ## Вариативные самостоятельные работы
 
-7 []()
+7 [ВСР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/vsr5-1.md)
 
 8 []()
 
