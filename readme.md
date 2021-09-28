@@ -11,18 +11,14 @@
 
 4 [ИСР6-2](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/isr6-2.md)
 
-5 [ИСР 3]()
-
-6 [ИСР 5]()
-
 ## Вариативные самостоятельные работы
 
 7 [ВСР5-1](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/vsr5-1.md)
 
 8 [ВСР5-4](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/vsr5-4.md)
 
-9 []()
+9 [ВСР6-2](https://github.com/calabiyauspace/ProgrammingPortfolio/blob/main/vsr6-2.md)
 
 ## Курсовая работа
 
-
+[]()
